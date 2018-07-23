@@ -16,6 +16,12 @@ Then install the Angular CLI globally.
 npm install -g @angular/cli
 ```
 
+Then install the dependencies.
+
+```
+npm install
+```
+
 ### Installing
 
 Go to the project directory and launch the server.
